@@ -1,1 +1,1 @@
-# ETG-Summer-Olympics-analysis
+# Etg-Summer-Olympics-analysis
